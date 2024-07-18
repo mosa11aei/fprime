@@ -37,7 +37,7 @@ aps
 apxs
 AQuat
 AQueued
-arcsecond
+Arcsecond
 arduino
 argcomplete
 argcount
@@ -61,7 +61,7 @@ autocoders
 autocoding
 autodocs
 Autodocumentation
-autogen
+AUTOGEN
 autoload
 automodule
 AYYYY
@@ -113,7 +113,7 @@ caselessmatch
 Catchen
 CBF
 CBLOCK
-ccsds
+CCSDS
 ccsparc
 cdefs
 CDH
@@ -294,6 +294,7 @@ ect
 edu
 EGB
 EHAs
+eip
 elist
 ELOG
 Elts
@@ -420,10 +421,11 @@ gnueabihf
 google
 googletest
 Gorang
+gpg
 GPGGA
 GPINT
 gpio
-graphviz
+Graphviz
 grayscales
 grnd
 GROUNDINTERFACERULES
@@ -535,6 +537,7 @@ JSO
 jsonable
 kermit
 kevin
+keyring
 kislyuk
 kitware
 Kooi
@@ -682,6 +685,7 @@ nproc
 npx
 NSHUFF
 NSPACES
+ntohs
 nukenewlines
 numargs
 nxt
@@ -903,7 +907,8 @@ sbb
 SBF
 SBINDIR
 sbt
-scatterometer
+scalasbt
+Scatterometer
 schem
 schematron
 sclk
@@ -1005,6 +1010,10 @@ subhistory
 subpage
 subseconds
 subtargets
+subtopology
+subtopologies
+Subtopology
+Subtopologies
 suppr
 suseconds
 SVCLOGFILE
@@ -1013,6 +1022,7 @@ svipc
 swcaegitadmin
 synchronicity
 synopsys
+sysconf
 SYSCONFDIR
 SYSFS
 sysinfo
@@ -1111,6 +1121,7 @@ toolset
 topologyapp
 Torvalds
 totalram
+tparam
 treeview
 trimwhitespace
 trinomials
@@ -1188,7 +1199,7 @@ wsl
 wxgui
 wxy
 Xabcdefx
-xapian
+Xapian
 xdf
 xdffe
 Xelect
@@ -1198,4 +1209,8 @@ xsh
 xsltproc
 xxxx
 yacgen
+yqq
 zmq
+
+mosa
+aei
